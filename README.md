@@ -4,7 +4,7 @@
 ![Tool](https://img.shields.io/badge/built_with-PowerBI-blue)
 ![Data](https://img.shields.io/badge/data-synthetic-orange)
 
-This project simulates a real-world IT Support environment, where a helpdesk team handles, tracks, and resolves service tickets across multiple departments. It demonstrates how Power BI can be used to monitor ticket trends, technician performance, and issue resolution efficiency—empowering IT teams to improve service delivery.
+This project simulates a real-world IT Support environment, where a helpdesk team handles, tracks, and resolves service tickets across multiple departments. It demonstrates how Power BI can be used to monitor ticket trends, technician performance, and issue resolution efficiency,empowering IT teams to improve service delivery.
 
 ---
 
@@ -72,7 +72,7 @@ Explore the live Power BI dashboard:
 
 ---
 
-##  Tools & Skills Demonstrated
+##  Tools and Skills Demonstrated
 
 - Power BI Desktop & Power BI Service  
 - DAX formulas for KPIs  
