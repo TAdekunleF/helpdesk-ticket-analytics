@@ -42,7 +42,7 @@ This tool could be used by a **Service Desk Manager** to reduce backlogs, improv
 
 >  A static dashboard image is available in the `/images` folder.
 
-![Helpdesk Dashboard](images/helpdesk-dashboard.png)
+![Helpdesk Dashboard](Image/helpdesk-dashboard.png)
 
 📄 A full PDF snapshot is also available:  
 ➡️ [Download Dashboard PDF](Helpdesk_Ticket_Analytics.pdf)
