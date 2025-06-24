@@ -44,16 +44,16 @@ This tool could be used by a **Service Desk Manager** to reduce backlogs, improv
 
 ![Helpdesk Dashboard](Image/helpdesk-dashboard.png)
 
-📄 A full PDF snapshot is also available:  
-➡️ [Download Dashboard PDF](Helpdesk_Ticket_Analytics.pdf)
+  A full PDF snapshot is also available:  
+➡ [Download Dashboard PDF](Helpdesk_Ticket_Analytics.pdf)
 
 ---
 
-## 🔁 Live Interactive Dashboard
+##  Live Interactive Dashboard
 
 Explore the live Power BI dashboard:
 
-👉 🔗 [View Public Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiOTExZTVhNmYtZDA1My00ZjU2LTlmM2MtYTYyMjk0ODhkNDgzIiwidCI6ImZlMDJjYzBmLTUzZjktNDg2ZC05ODM3LTUxMDlhZDVhN2E3ZiJ9)
+ 🔗 [View Public Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiOTExZTVhNmYtZDA1My00ZjU2LTlmM2MtYTYyMjk0ODhkNDgzIiwidCI6ImZlMDJjYzBmLTUzZjktNDg2ZC05ODM3LTUxMDlhZDVhN2E3ZiJ9)
 
 > Test filters, click visual elements, and interact with slicers to simulate real-time support monitoring.
 
@@ -64,7 +64,7 @@ Explore the live Power BI dashboard:
 -  300+ synthetic helpdesk ticket records  
 -  Fields include: Issue Type, Department, Technician, Priority, Creation Date, Resolution Time  
 
-> 🛡️ **Privacy Note**: All data used in this project is **synthetically generated** and does **not represent any real users or companies**.
+>  **Privacy Note**: All data used in this project is **synthetically generated** and does **not represent any real users or companies**.
 
 ---
 
@@ -78,7 +78,7 @@ Explore the live Power BI dashboard:
 
 ---
 
-## 🛡️ Disclaimer
+##  Disclaimer
 
 This dashboard is developed for **portfolio and educational demonstration** purposes only.  
 All ticket entries are **fictitious and randomly generated** to protect privacy.  
@@ -86,7 +86,7 @@ Any similarity to real organizations or users is purely coincidental.
 
 ---
 
-## 📌 Author
+## Author
 
 **Adekunle Felix Taiwo**  
 🔗 [LinkedIn](https://www.linkedin.com/in/felixtaiwo)  
