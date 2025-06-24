@@ -1,12 +1,12 @@
 #  Helpdesk Ticket Analytics Dashboard (IT Support Project)
 
-This project simulates a real-world **IT Support environment**, where a helpdesk team handles, tracks, and resolves service tickets across multiple departments. It demonstrates how **Power BI** can be used to monitor ticket trends, technician performance, and issue resolution efficiency—empowering IT teams to improve service delivery.
+This project simulates a real-world IT Support environment, where a helpdesk team handles, tracks, and resolves service tickets across multiple departments. It demonstrates how Power BI can be used to monitor ticket trends, technician performance, and issue resolution efficiency—empowering IT teams to improve service delivery.
 
 ---
 
 ##  Goal
 
-To turn helpdesk data into actionable insight through interactive dashboards for **real-time visibility**, smarter staffing, and faster resolution.
+To turn helpdesk data into actionable insight through interactive dashboards for real-time visibility, smarter staffing, and faster resolution.
 
 ---
 
@@ -21,7 +21,7 @@ This dashboard enables:
 -  Insight into technician workloads  
 -  Departmental filtering and issue type breakdown  
 
-This tool could be used by a **Service Desk Manager** to reduce backlogs, improve SLA compliance, and make smarter staffing decisions.
+This tool could be used by a Service Desk Manager to reduce backlogs, improve SLA compliance, and make smarter staffing decisions.
 
 ---
 
