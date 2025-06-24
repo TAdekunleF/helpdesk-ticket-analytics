@@ -1,5 +1,9 @@
 #  Helpdesk Ticket Analytics Dashboard (IT Support Project)
 
+![Status](https://img.shields.io/badge/project-complete-brightgreen)
+![Tool](https://img.shields.io/badge/built_with-PowerBI-blue)
+![Data](https://img.shields.io/badge/data-synthetic-orange)
+
 This project simulates a real-world IT Support environment, where a helpdesk team handles, tracks, and resolves service tickets across multiple departments. It demonstrates how Power BI can be used to monitor ticket trends, technician performance, and issue resolution efficiency—empowering IT teams to improve service delivery.
 
 ---
